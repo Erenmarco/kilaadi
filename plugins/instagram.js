@@ -28,8 +28,8 @@ const {
 } = require('./misc/misc');
 const Config = require('../config');
 const s = require('../config');
-var need = "*_Need instagram link!_*";
-var downloading = "_*Downloading*_";
+var need = "*_𝚗𝚎𝚎𝚍 𝚒𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖 𝚕𝚒𝚗𝚔!_*";
+var downloading = "_*𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚜𝚝𝚊𝚛𝚝𝚎𝚍*_";
 var need_acc = "*_Need an instagram username!_*";
 var fail = "*_Download failed! Check your link and try again_*";
 var need_acc_s = "_Need an instagram username or link!_";
